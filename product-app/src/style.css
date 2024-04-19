@@ -1,0 +1,44 @@
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-right: 3rem !important;
+  padding-left: 2rem !important;
+  color: #ffffff;
+}
+.bg-light{
+  background-color: antiquewhite !important;
+}
+
+.navbar-brand{
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.inputWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Align items vertically */
+  }
+  
+  .inputWrapper label {
+    margin-right: 10px; /* Adjust margin as needed */
+    color: red;
+  }
+
+  .form-box {
+    max-width: 500px;
+    margin: auto;
+    padding: 25px;
+    background: #ffffff;
+    border: 10px solid #f2f2f2;
+  }
+  
+  h1, p,h3 {
+    text-align: center;
+  }
+  
+  input, textarea {
+    width: 100%;
+  }
+
+  .L-weight{
+    font-weight: bold;
+  }
